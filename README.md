@@ -1,11 +1,41 @@
 # QA-Engineer-Practical-Exam
 
-Hello! I am Kelly Denise A. Inso, I recently graduated from Pamantasan ng Lungsod ng Maynila (PLM) with the Bachelor's Degree of Computer Science.
-Here is my Practical Exam for QA Engineer position. In this repository you will be able to see the folders and files: 
-    1. Web Application Testing
-      a. Documentation - consist of Test Case and Bug reports
-          - Screencapture - consists of Screencapture of Bugs reported
-      b. Automation - consist of Automation using Playwright
-    2. API Testing
-      a. Documentation - consist of Test Cases and Documentation that consists tasks that needs to be done.
-      b. Postman - consists of screencaptures from manual testing
+## Table of Contents
+1. Overview
+2. Directory Structure
+3. Notes
+
+---
+
+## Overview
+Hello! I am Kelly Denise A. Inso, I recently graduated from Pamantasan ng Lungsod ng Maynila (PLM) with the Bachelor's Degree of Computer Science. This repository contains my submission for the QA Engineer practical exam. It covers:
+
+- **Manual Testing:** 
+- **Automation Testing (Playwright):** 
+- **API Testing (Postman & Documentation):** 
+- **Bug Reporting & Screenshots:**
+---
+
+
+## Directory Structure
+```
+QA-Engineer-Practical-Exam/
+│
+├─ WebApplicationTesting/
+│ ├─ TestCases/ # Manual test cases
+│ ├─ BugReports/ # Documented bugs with screenshots
+│ └─ Automation/ # Playwright scripts
+│
+├─ APITesting/
+│ ├─ TestCases/ # API test documentation
+│ └─ PostmanResults/ # Screenshots and logs
+│
+└─ README.md # This file
+```
+
+---
+
+## Notes
+- All test cases and scripts were designed considering the instructions provided.
+- Any assumptions made during testing are documented in the respective folders.
+- The repository aims to clearly present both the deliverables and the reasoning behind testing decisions.
